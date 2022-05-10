@@ -17,3 +17,7 @@ So far:
   - RUN
   - CMD
   - ENTRYPOINT
+
+___
+
+## Ending for today - May 09, 2022
